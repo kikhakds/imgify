@@ -1,3 +1,7 @@
 *.o
+*.gcno
+*.gcda
+coverage.info
+coverage_html/
 bin2png
 png2bin
